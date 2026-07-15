@@ -45,9 +45,9 @@ This project provides an automated sentiment classification system that uses NLP
 * GRU deep learning model.
   
 * Multi-class sentiment classification.
-* 
+  
 * Positive, Negative, and Neutral predictions.
-* 
+ 
 * Real-time sentiment prediction.
   
 * Simple and interactive Streamlit interface.
